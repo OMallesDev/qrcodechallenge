@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-(images\solutionscreenshot.jpeg)
+<img src="images\solutionscreenshot.jpeg)">
 
 
 ### Links
@@ -42,13 +42,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
 To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
 
 ### Continued development
 
