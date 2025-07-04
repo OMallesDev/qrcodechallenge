@@ -16,7 +16,7 @@ img {
 }
 .qrcode {
     padding: 16px 16px;
-    margin: 0 auto;
+    margin: auto;
     border-radius: 15px;
     text-align: center;
     background-color: white;
@@ -33,7 +33,7 @@ p {
     font-family: outfit; 
 }
  .h2 {
-    margin: 0 auto;
+    margin: auto;
     max-width: 256px;
     max-height: 52;
     font-size: 1.3rem;
