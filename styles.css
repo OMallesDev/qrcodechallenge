@@ -16,8 +16,8 @@ img {
     border-radius: 15px;
     text-align: center;
     background-color: white;
-    width: 320px;
-    height: 499px;
+    min-width: 320px;
+    min-height: 499px;
 }
 p {
     width: 256;
