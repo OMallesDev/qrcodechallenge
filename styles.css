@@ -20,8 +20,9 @@ img {
     border-radius: 15px;
     text-align: center;
     background-color: white;
-    min-width: 320px;
-    min-height: 499px;
+    width: 320px;
+    height: 499px;
+    
 }
 p {
     max-width: 256;
