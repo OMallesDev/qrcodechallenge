@@ -10,12 +10,10 @@ body {
 }
 img {
     border-radius: 10px;
-    margin-top: 1px;
     margin-bottom: 15px;
-    width: 99%;
+    width: 310px;
 }
 .qrcode {
-    ;
     padding: 16px 16px;
     margin: 0 auto;
     border-radius: 15px;
@@ -26,17 +24,14 @@ img {
     
 }
 p {
-    max-width: 256;
-    max-height: 63px;
     color: hsl(216, 15%, 48%);
     font-weight: 400;
-    font-size: 18px;
+    font-size: 19px;
     font-family: outfit; 
 }
  .h2 {
     margin: auto;
     max-width: 256px;
-    max-height: 52;
     font-size: 1.3rem;
     font-family: outfit;
     font-weight: 700;
