@@ -10,7 +10,7 @@ img {
     width: 99%;
 }
 .qrcode {
-    position: relative;
+    position: fixed;
     padding: 16px 16px;
     margin: 0 auto;
     border-radius: 15px;
