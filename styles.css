@@ -20,8 +20,8 @@ img {
     min-height: 499px;
 }
 p {
-    width: 256;
-    height: 63px;
+    max-width: 256;
+    max-height: 63px;
     color: hsl(216, 15%, 48%);
     font-weight: 400;
     font-size: 18px;
@@ -29,8 +29,8 @@ p {
 }
  .h2 {
     margin: 0 auto;
-    width: 256px;
-    height: 52;
+    max-width: 256px;
+    max-height: 52;
     font-size: 1.3rem;
     font-family: outfit;
     font-weight: 700;
