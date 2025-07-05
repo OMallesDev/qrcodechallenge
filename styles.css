@@ -11,10 +11,14 @@ body {
     overflow: hidden;
     background-color: hsl(212, 45%, 89%);
 }
+.container {
+    margin: 0 auto;
+    max-width: 350px;
+}
 img {
     border-radius: 0.6rem;
     margin-bottom: 0.9rem;
-    width: 20rem;
+    width: 100%;
 }
 .qrcode {
     padding: 1.2rem;
@@ -22,8 +26,7 @@ img {
     margin: 0 auto;
     border-radius: 0.9rem;
     background-color: white;
-    width: 20rem;
-    height: 30rem;
+    width: 100%;
     
 }
 p {
