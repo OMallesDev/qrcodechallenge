@@ -47,7 +47,7 @@ Definitely some minor paint points in my process that took me a bit to get the h
     justify-content: center;
     align-content: center; //
 }
-``` below:
+```
 
 ### Continued development
 
