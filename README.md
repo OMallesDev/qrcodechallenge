@@ -11,17 +11,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
 ### Screenshot
 
-<img src="images\solutionscreenshot.jpeg)">
+![solutionscreenshot](https://github.com/user-attachments/assets/afecafb3-5acc-45a2-a10b-56600fb52df4)
 
 
 ### Links
