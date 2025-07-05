@@ -31,6 +31,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## My process
 
+Definitely some minor paint points in my process that took me a bit to get the hang of. One of the biggest roadblocks was getting flexbox to work so that way the mobile version didn't have blank space and a scroll bar. And although I kinda beat myself up a bit over it it was definitely something that needed worked on.
+
+```css
+//body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center; //
+
 ### Built with
 
 - Semantic HTML5 markup
@@ -51,7 +60,7 @@ I definitely need to continue focusing and learning the flexbox method. It reall
 
 ## Author
 
-- - Frontend Mentor - [@omallesdev](https://www.frontendmentor.io/profile/omallesdev)
+- Frontend Mentor - [@omallesdev](https://www.frontendmentor.io/profile/omallesdev)
 - Twitter - [@omallestv](https://www.twitter.com/omallestv)
 
 
