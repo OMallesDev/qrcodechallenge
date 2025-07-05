@@ -28,6 +28,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Live Site URL: https://omallesdev.github.io/qrcodechallenge/
 
 ## My process
+Honestly the process of getting to a certain point was straight forward, adding the image and formatting everything into the div element were fairly simple. I ended filling a lot of commits to trying to get mobile to work and scouring forums for what I was doing wrong when it came to overflow and using flexbox to be able to properly center and create a responsive element that looked good in both desktop and mobile environments.
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+
+### What I learned
 
 Definitely some minor paint points in my process that took me a bit to get the hang of. One of the biggest roadblocks was getting flexbox to work so that way the mobile version didn't have blank space and a scroll bar. And although I kinda beat myself up a bit over it it was definitely something that needed worked on.
 
@@ -38,18 +47,7 @@ Definitely some minor paint points in my process that took me a bit to get the h
     justify-content: center;
     align-content: center; //
 }
-```
-### Built with
-
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-
-### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
+``` below:
 
 ### Continued development
 
