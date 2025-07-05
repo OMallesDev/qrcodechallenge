@@ -9,29 +9,29 @@ body {
     background-color: hsl(212, 45%, 89%);
 }
 img {
-    border-radius: 10px;
+    border-radius: 0.6rem;
     margin-bottom: 0.9rem;
     width: 20rem;
 }
 .qrcode {
-    padding: 16px 16px;
+    padding: 1rem;
     margin: 0 auto;
-    border-radius: 15px;
+    border-radius: 0.9rem;
     text-align: center;
     background-color: white;
-    width: 320px;
-    height: 499px;
+    width: 20rem;
+    height: 32rem;
     
 }
 p {
     color: hsl(216, 15%, 48%);
     font-weight: 400;
-    font-size: 19px;
+    font-size: 1.2rem;
     font-family: outfit, serif; 
 }
  .h2 {
     margin: auto;
-    max-width: 256px;
+    max-width: 16rem;
     font-size: 1.3rem;
     font-family: outfit, serif;
     font-weight: 700;
