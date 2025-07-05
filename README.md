@@ -37,7 +37,8 @@ Definitely some minor paint points in my process that took me a bit to get the h
     flex-direction: column;
     justify-content: center;
     align-content: center; //
-
+}
+```
 ### Built with
 
 - Semantic HTML5 markup
