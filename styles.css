@@ -1,10 +1,13 @@
 body {
+    box-sizing: border-box;
+    text-align: center;
+    font-family: outfit, serif;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-content: center;
-    height: 100vh;
     width: 100vw;
+    height: 100vh;
     overflow: hidden;
     background-color: hsl(212, 45%, 89%);
 }
@@ -14,26 +17,24 @@ img {
     width: 20rem;
 }
 .qrcode {
-    padding: 1rem;
+    padding: 1.2rem;
+    padding-bottom: 7rem;
     margin: 0 auto;
     border-radius: 0.9rem;
-    text-align: center;
     background-color: white;
     width: 20rem;
-    height: 32rem;
+    height: 26rem;
     
 }
 p {
     color: hsl(216, 15%, 48%);
     font-weight: 400;
     font-size: 1.2rem;
-    font-family: outfit, serif; 
 }
  .h2 {
     margin: auto;
     max-width: 16rem;
     font-size: 1.3rem;
-    font-family: outfit, serif;
     font-weight: 700;
     color: hsl(218, 44%, 22%);
 }
