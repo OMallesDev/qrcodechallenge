@@ -18,12 +18,12 @@ img {
 }
 .qrcode {
     padding: 1.2rem;
-    padding-bottom: 7rem;
+    padding-bottom: 2rem;
     margin: 0 auto;
     border-radius: 0.9rem;
     background-color: white;
     width: 20rem;
-    height: 26rem;
+    height: 30rem;
     
 }
 p {
