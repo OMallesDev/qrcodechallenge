@@ -10,7 +10,7 @@ body {
 }
 img {
     border-radius: 10px;
-    margin-bottom: 15px;
+    margin-bottom: 0.9rem;
     width: 310px;
 }
 .qrcode {
@@ -27,13 +27,13 @@ p {
     color: hsl(216, 15%, 48%);
     font-weight: 400;
     font-size: 19px;
-    font-family: outfit; 
+    font-family: outfit, serif; 
 }
  .h2 {
     margin: auto;
     max-width: 256px;
     font-size: 1.3rem;
-    font-family: outfit;
+    font-family: outfit, serif;
     font-weight: 700;
     color: hsl(218, 44%, 22%);
 }
